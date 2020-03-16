@@ -14,7 +14,7 @@
 	1) `cd python`
 	2) `python main.py`，執行完成後會產生兩的csv檔案。
 5. 執行mongoDB資料夾程式，執行程式步驟：
-	1) `cd python`
+	1) `cd mongoDB`
 	2) 編輯設定檔config.ini，修改DB連線與發API的headers資訊。
 	3) `python main.py`，將591租屋網上的資料存入MongoDB。
 	4) `python api.py`，run起server，即可使用API查詢資料，API查詢範例為
